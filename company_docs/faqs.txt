@@ -1,0 +1,13 @@
+Our company, GlobalTech Solutions, specializes in innovative software development and IT consulting. We offer a range of services including custom application development, cloud migration, cybersecurity solutions, and data analytics. Our mission is to empower businesses with cutting-edge technology.
+
+FAQ: What are your operating hours?
+Answer: Our support team is available from 9:00 AM to 5:00 PM WIB, Monday to Friday. We are closed on weekends and public holidays.
+
+FAQ: How can I contact customer support?
+Answer: You can reach customer support by emailing support@globaltech.com or calling us at +62 21 12345678 during business hours.
+
+FAQ: What is your return policy?
+Answer: We offer a 30-day money-back guarantee on all our software products from the date of purchase. For consulting services, satisfaction is guaranteed, and any issues should be reported within 15 days of service completion.
+
+FAQ: Do you offer free trials?
+Answer: Yes, we offer a 14-day free trial for our Pro software suite. No credit card required to start the trial.
